@@ -1,0 +1,20 @@
+Phishing websites:
+
+http://royalmailpostservices.com/
+
+http://holi-sale-offer.000webhostapp.com/	
+
+http://neflix-pl.duckdns.org/index_pl.php
+
+http://testphp.vulnweb.com/
+
+
+
+Non Phising websites:
+
+https://www.office.com/?auth=2
+
+https://www.netflix.com/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse
+
+https://www.primevideo.com/storefront/ref=atv_hm_hom_legacy_redirect
+
